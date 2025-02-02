@@ -12,7 +12,6 @@
 # misc
 .DS_Store
 .idea
-.vscode
 Thumbs.db  # Windows thumbnail database
 
 # environment variables
@@ -45,3 +44,7 @@ backend/*.pyc
 # Editor/IDE temporary files (optional - use with caution)
 *.swp
 *~
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
