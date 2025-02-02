@@ -12,12 +12,10 @@
 # misc
 .DS_Store
 .idea
-.vscode
 Thumbs.db  # Windows thumbnail database
 
 # environment variables
 *.env  # Catches all .env files
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -45,3 +43,8 @@ backend/*.pyc
 # Editor/IDE temporary files (optional - use with caution)
 *.swp
 *~
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
